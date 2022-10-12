@@ -1,5 +1,5 @@
 from googlesearch import search
-import requests
+from selenium import webdriver
 
 
 
@@ -7,8 +7,11 @@ import requests
 #return: source code of url
 #this method takes in a url and outputs the source code of the url
 def source_code(url) :
-    r = requests.get(url)
-    return r.text
+    driver = webdriver.Chrome(executable_path="chromedriver.exe")
+    driver.implicitly_wait(0.5)
+    driver.get(url)
+    s = driver.page_source
+    return s
 
 
 
@@ -16,8 +19,10 @@ def source_code(url) :
 #return: first link that shows up in google search
 #this method takes in a search query string and outputs the first link that shows up in google search
 def first_result(query) :
-    x = list(search(query, stop=1, pause=2))
-    return(x[0])
+    x = list(search(query, stop=3, pause=2))
+    for y in x : #sometimes the first result is a random website, so this now gets top 3 results and returns the desired page
+        if ("celebheights.com" in y or "celebritynetworth.com" in y) :
+            return y
 
 
 
@@ -50,11 +55,9 @@ def get_height(celeb_name) :
 #this method takes in the url of a networth page and outputs the net worth of the celebrity.
 # it uses the request library to get the source code of the inputted url page and then returns the net worth of the celebrity
 def extract_networth(url) :
-    sc = source_code(url)
-    sc = sc[sc.index("$")+1:]
-    sc = sc[:sc.index('.')]
-    if (len(sc)>20) :
-        sc=sc[:sc.index('"')]
+    sc = (source_code(url)).lower()
+    sc = sc[sc.index('class="value"')+15:]
+    sc = sc[:sc.index("<")]
     sc = sc.replace(" billion", "000000000")
     sc = sc.replace(" million", "000000")
     sc = sc.replace(" thousand", "000")

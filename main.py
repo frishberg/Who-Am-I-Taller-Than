@@ -59,15 +59,13 @@ famous_people = [
     "David Bowie"
 ]
 
-#for name in famous_people :
-    #try :
-        #if (not os.path.exists("data/" + name + ".txt")) : #if data doesn't already exists
-            #write_data(name)
-            #print("Successfully fetched data for " + name)
-        #else : #if data already exists
-            #print("Data already exists for " + name)
-    #except ValueError :
-        #print("Error fetching data for " + name)
-    #sleep(2)
-#FAILS : Beyonce, Kanye West
-write_data("Beyonce")
+for name in famous_people :
+    try :
+        if (not os.path.exists("data/" + name + ".txt")) : #if data doesn't already exists
+            write_data(name)
+            print("Successfully fetched data for " + name)
+            sleep(2)
+        else : #if data already exists
+            print("Data already exists for " + name)
+    except ValueError :
+        print("Error fetching data for " + name)
