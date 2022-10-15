@@ -1,2 +1,0 @@
-networth: 160000000
-height: 171.5

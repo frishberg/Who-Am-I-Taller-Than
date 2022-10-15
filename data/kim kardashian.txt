@@ -1,2 +1,0 @@
-networth: 1
-height: 157.5

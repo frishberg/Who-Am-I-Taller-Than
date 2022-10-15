@@ -1,0 +1,22 @@
+<!DOCTYPE HTML>
+
+<head>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap" rel="stylesheet"> 
+    <title>Who Am I Taller Than?</title>
+    <link rel="stylesheet" href="css/style.css">
+    <script src="js/ben-gurion.js"></script>
+</head>
+<body>
+    <div class="heading-banner">
+        <h1>Who Am I Taller Than?</h1>
+        <h3><i>You can always use an ego boost!</i></h3>
+        <h2>Height: <input id="foot-box" onChange="update()">' <input id="inch-box" onChange="update()">"</h2>
+        <h2>Sort By: <select id="sort-by" onChange="update()">
+            <option value="height">Height</option>
+            <option value="networth">Networth</option>
+            <option value="popularity">Popularity</option>
+            <option value="name">Name</option>
+        </select></h2>
+    </div>
+    <center id="skeleton"></center>
+</body>

@@ -1,0 +1,734 @@
+[
+    {
+        "name": "taylor swift",
+        "networth": 400000000,
+        "height": 175.9,
+        "popularity": 13422038
+    },
+    {
+        "name": "justin bieber",
+        "networth": 285000000,
+        "height": 171.5,
+        "popularity": 10402503
+    },
+    {
+        "name": "katy perry",
+        "networth": 330000000,
+        "height": 170.2,
+        "popularity": 6711815
+    },
+    {
+        "name": "beyonce",
+        "networth": 500000000,
+        "height": 167.6,
+        "popularity": 7709954
+    },
+    {
+        "name": "lady gaga",
+        "networth": 320000000,
+        "height": 155.6,
+        "popularity": 11310935
+    },
+    {
+        "name": "miley cyrus",
+        "networth": 160000000,
+        "height": 163.8,
+        "popularity": 7276905
+    },
+    {
+        "name": "kanye west",
+        "networth": 4000000000,
+        "height": 172.7,
+        "popularity": 14811034
+    },
+    {
+        "name": "kendrick lamar",
+        "networth": 75000000,
+        "height": 163.8,
+        "popularity": 6266254
+    },
+    {
+        "name": "obama",
+        "networth": 70000000,
+        "height": 185.4,
+        "popularity": 14483382
+    },
+    {
+        "name": "donald trump",
+        "networth": 2000000000,
+        "height": 184.2,
+        "popularity": 323361604
+    },
+    {
+        "name": "selena gomez",
+        "networth": 95000000,
+        "height": 164.5,
+        "popularity": 9895437
+    },
+    {
+        "name": "ariana grande",
+        "networth": 240000000,
+        "height": 153.7,
+        "popularity": 13170258
+    },
+    {
+        "name": "ellen degeneres",
+        "networth": 500000000,
+        "height": 167.6,
+        "popularity": 3869089
+    },
+    {
+        "name": "chris brown",
+        "networth": 50000000,
+        "height": 183.5,
+        "popularity": 3801173
+    },
+    {
+        "name": "drake",
+        "networth": 250000000,
+        "height": 182.2,
+        "popularity": 7496263
+    },
+    {
+        "name": "nicki minaj",
+        "networth": 100000000,
+        "height": 157.5,
+        "popularity": 7258075
+    },
+    {
+        "name": "kylie jenner",
+        "networth": 750000000,
+        "height": 167.6,
+        "popularity": 9740406
+    },
+    {
+        "name": "kourtney kardashian",
+        "networth": 65000000,
+        "height": 152.4,
+        "popularity": 6427821
+    },
+    {
+        "name": "khloe kardashian",
+        "networth": 60000000,
+        "height": 174.0,
+        "popularity": 5171547
+    },
+    {
+        "name": "robert downey jr.",
+        "networth": 300000000,
+        "height": 172.1,
+        "popularity": 9336128
+    },
+    {
+        "name": "chris pratt",
+        "networth": 80000000,
+        "height": 187.3,
+        "popularity": 8703304
+    },
+    {
+        "name": "scarlett johansson",
+        "networth": 165000000,
+        "height": 160.0,
+        "popularity": 14531569
+    },
+    {
+        "name": "chris evans",
+        "networth": 80000000,
+        "height": 182.9,
+        "popularity": 8801733
+    },
+    {
+        "name": "chris hemsworth",
+        "networth": 130000000,
+        "height": 190.5,
+        "popularity": 8756680
+    },
+    {
+        "name": "mark ruffalo",
+        "networth": 35000000,
+        "height": 171.5,
+        "popularity": 4175701
+    },
+    {
+        "name": "tom holland",
+        "networth": 25000000,
+        "height": 168.9,
+        "popularity": 14359502
+    },
+    {
+        "name": "tom hiddleston",
+        "networth": 40000000,
+        "height": 187.3,
+        "popularity": 5831763
+    },
+    {
+        "name": "benedict cumberbatch",
+        "networth": 40000000,
+        "height": 181.6,
+        "popularity": 7011279
+    },
+    {
+        "name": "arnold schwarzenegger",
+        "networth": 450000000,
+        "height": 180.3,
+        "popularity": 11731446
+    },
+    {
+        "name": "dwayne johnson",
+        "networth": 800000000,
+        "height": 189.2,
+        "popularity": 16826373
+    },
+    {
+        "name": "vin diesel",
+        "networth": 225000000,
+        "height": 181.6,
+        "popularity": 7048662
+    },
+    {
+        "name": "jason statham",
+        "networth": 90000000,
+        "height": 174.6,
+        "popularity": 7258954
+    },
+    {
+        "name": "will smith",
+        "networth": 350000000,
+        "height": 186.7,
+        "popularity": 11914515
+    },
+    {
+        "name": "tom cruise",
+        "networth": 600000000,
+        "height": 172.1,
+        "popularity": 18064344
+    },
+    {
+        "name": "brad pitt",
+        "networth": 300000000,
+        "height": 180.3,
+        "popularity": 10889598
+    },
+    {
+        "name": "leonardo dicaprio",
+        "networth": 300000000,
+        "height": 181.0,
+        "popularity": 13776541
+    },
+    {
+        "name": "jennifer lawrence",
+        "networth": 160000000,
+        "height": 171.5,
+        "popularity": 9417077
+    },
+    {
+        "name": "emma stone",
+        "networth": 40000000,
+        "height": 167.6,
+        "popularity": 8034304
+    },
+    {
+        "name": "megan fox",
+        "networth": 8000000,
+        "height": 162.6,
+        "popularity": 9766170
+    },
+    {
+        "name": "angelina jolie",
+        "networth": 120000000,
+        "height": 168.9,
+        "popularity": 12686228
+    },
+    {
+        "name": "halle berry",
+        "networth": 90000000,
+        "height": 165.7,
+        "popularity": 5350562
+    },
+    {
+        "name": "jennifer aniston",
+        "networth": 320000000,
+        "height": 164.5,
+        "popularity": 11823865
+    },
+    {
+        "name": "shakira",
+        "networth": 300000000,
+        "height": 155.6,
+        "popularity": 6489577
+    },
+    {
+        "name": "paul rudd",
+        "networth": 70000000,
+        "height": 175.3,
+        "popularity": 5334172
+    },
+    {
+        "name": "ryan reynolds",
+        "networth": 150000000,
+        "height": 188.0,
+        "popularity": 14603979
+    },
+    {
+        "name": "chris pine",
+        "networth": 35000000,
+        "height": 184.2,
+        "popularity": 5790664
+    },
+    {
+        "name": "elton john",
+        "networth": 500000000,
+        "height": 168.9,
+        "popularity": 10276905
+    },
+    {
+        "name": "bono",
+        "networth": 700000000,
+        "height": 166.4,
+        "popularity": 2696711
+    },
+    {
+        "name": "bruce springsteen",
+        "networth": 650000000,
+        "height": 175.3,
+        "popularity": 4941821
+    },
+    {
+        "name": "bob dylan",
+        "networth": 500000000,
+        "height": 168.9,
+        "popularity": 7670232
+    },
+    {
+        "name": "david bowie",
+        "networth": 230000000,
+        "height": 177.2,
+        "popularity": 10423344
+    },
+    {
+        "name": "elon musk",
+        "networth": 264000000000,
+        "height": 186.7,
+        "popularity": 47781854
+    },
+    {
+        "name": "bill gates",
+        "networth": 114000000000,
+        "height": 176.5,
+        "popularity": 9864789
+    },
+    {
+        "name": "mark zuckerberg",
+        "networth": 51000000000,
+        "height": 171.5,
+        "popularity": 10441360
+    },
+    {
+        "name": "jeff bezos",
+        "networth": 142000000000,
+        "height": 172.7,
+        "popularity": 14742644
+    },
+    {
+        "name": "michelle obama",
+        "networth": 70000000,
+        "height": 179.7,
+        "popularity": 3144506
+    },
+    {
+        "name": "hillary clinton",
+        "networth": 120000000,
+        "height": 163.8,
+        "popularity": 3950767
+    },
+    {
+        "name": "george w. bush",
+        "networth": 50000000,
+        "height": 177.8,
+        "popularity": 8263107
+    },
+    {
+        "name": "bill clinton",
+        "networth": 120000000,
+        "height": 182.9,
+        "popularity": 7371533
+    },
+    {
+        "name": "cristiano ronaldo",
+        "networth": 500000000,
+        "height": 185.4,
+        "popularity": 32162912
+    },
+    {
+        "name": "lionel messi",
+        "networth": 600000000,
+        "height": 168.9,
+        "popularity": 20434077
+    },
+    {
+        "name": "neymar",
+        "networth": 200000000,
+        "height": 172.7,
+        "popularity": 7466062
+    },
+    {
+        "name": "zlatan ibrahimovic",
+        "networth": 190000000,
+        "height": 194.3,
+        "popularity": 8305286
+    },
+    {
+        "name": "bradley cooper",
+        "networth": 100000000,
+        "height": 184.2,
+        "popularity": 7231044
+    },
+    {
+        "name": "ryan gosling",
+        "networth": 70000000,
+        "height": 183.5,
+        "popularity": 7317626
+    },
+    {
+        "name": "adam sandler",
+        "networth": 420000000,
+        "height": 177.2,
+        "popularity": 7146518
+    },
+    {
+        "name": "adam levine",
+        "networth": 160000000,
+        "height": 180.3,
+        "popularity": 3604452
+    },
+    {
+        "name": "zac efron",
+        "networth": 25000000,
+        "height": 172.7,
+        "popularity": 5558936
+    },
+    {
+        "name": "bryan cranston",
+        "networth": 40000000,
+        "height": 177.8,
+        "popularity": 4682909
+    },
+    {
+        "name": "aaron paul",
+        "networth": 20000000,
+        "height": 172.1,
+        "popularity": 3403325
+    },
+    {
+        "name": "jesse eisenberg",
+        "networth": 12000000,
+        "height": 170.8,
+        "popularity": 2172873
+    },
+    {
+        "name": "jared leto",
+        "networth": 90000000,
+        "height": 175.3,
+        "popularity": 8262444
+    },
+    {
+        "name": "joaquin phoenix",
+        "networth": 60000000,
+        "height": 172.7,
+        "popularity": 6945821
+    },
+    {
+        "name": "christian bale",
+        "networth": 120000000,
+        "height": 182.2,
+        "popularity": 6975302
+    },
+    {
+        "name": "johnny depp",
+        "networth": 150000000,
+        "height": 175.3,
+        "popularity": 25781607
+    },
+    {
+        "name": "tom hardy",
+        "networth": 55000000,
+        "height": 175.3,
+        "popularity": 9089196
+    },
+    {
+        "name": "will ferrell",
+        "networth": 160000000,
+        "height": 189.2,
+        "popularity": 3875410
+    },
+    {
+        "name": "steve carell",
+        "networth": 80000000,
+        "height": 175.3,
+        "popularity": 5421880
+    },
+    {
+        "name": "channing tatum",
+        "networth": 80000000,
+        "height": 183.5,
+        "popularity": 6134639
+    },
+    {
+        "name": "matthew mcconaughey",
+        "networth": 160000000,
+        "height": 179.7,
+        "popularity": 8709229
+    },
+    {
+        "name": "sandra bullock",
+        "networth": 250000000,
+        "height": 170.2,
+        "popularity": 9205212
+    },
+    {
+        "name": "julia roberts",
+        "networth": 250000000,
+        "height": 172.7,
+        "popularity": 7741833
+    },
+    {
+        "name": "meryl streep",
+        "networth": 160000000,
+        "height": 164.5,
+        "popularity": 6156173
+    },
+    {
+        "name": "emma watson",
+        "networth": 85000000,
+        "height": 164.5,
+        "popularity": 9428676
+    },
+    {
+        "name": "jennifer lopez",
+        "networth": 400000000,
+        "height": 163.8,
+        "popularity": 12725797
+    },
+    {
+        "name": "cameron diaz",
+        "networth": 140000000,
+        "height": 172.7,
+        "popularity": 6653711
+    },
+    {
+        "name": "demi lovato",
+        "networth": 40000000,
+        "height": 158.8,
+        "popularity": 7538434
+    },
+    {
+        "name": "britney spears",
+        "networth": 70000000,
+        "height": 163.2,
+        "popularity": 12645851
+    },
+    {
+        "name": "adele",
+        "networth": 220000000,
+        "height": 172.7,
+        "popularity": 10286234
+    },
+    {
+        "name": "ed sheeran",
+        "networth": 200000000,
+        "height": 172.1,
+        "popularity": 7337697
+    },
+    {
+        "name": "justin timberlake",
+        "networth": 250000000,
+        "height": 181.6,
+        "popularity": 4963356
+    },
+    {
+        "name": "bruno mars",
+        "networth": 175000000,
+        "height": 162.6,
+        "popularity": 5890179
+    },
+    {
+        "name": "george clooney",
+        "networth": 500000000,
+        "height": 179.7,
+        "popularity": 5980863
+    },
+    {
+        "name": "matt damon",
+        "networth": 170000000,
+        "height": 177.2,
+        "popularity": 5971743
+    },
+    {
+        "name": "ben affleck",
+        "networth": 150000000,
+        "height": 188.6,
+        "popularity": 12010521
+    },
+    {
+        "name": "matt leblanc",
+        "networth": 85000000,
+        "height": 176.5,
+        "popularity": 4423402
+    },
+    {
+        "name": "david schwimmer",
+        "networth": 120000000,
+        "height": 185.4,
+        "popularity": 4770680
+    },
+    {
+        "name": "courteney cox",
+        "networth": 150000000,
+        "height": 165.1,
+        "popularity": 6961438
+    },
+    {
+        "name": "matthew perry",
+        "networth": 120000000,
+        "height": 181.0,
+        "popularity": 6471351
+    },
+    {
+        "name": "lisa kudrow",
+        "networth": 130000000,
+        "height": 172.7,
+        "popularity": 4561114
+    },
+    {
+        "name": "kaley cuoco",
+        "networth": 100000000,
+        "height": 167.0,
+        "popularity": 7287203
+    },
+    {
+        "name": "jim parsons",
+        "networth": 160000000,
+        "height": 185.4,
+        "popularity": 3614157
+    },
+    {
+        "name": "johnny galecki",
+        "networth": 100000000,
+        "height": 165.1,
+        "popularity": 3087222
+    },
+    {
+        "name": "simon cowell",
+        "networth": 600000000,
+        "height": 172.7,
+        "popularity": 3357053
+    },
+    {
+        "name": "ryan seacrest",
+        "networth": 450000000,
+        "height": 171.5,
+        "popularity": 1833265
+    },
+    {
+        "name": "jimmy fallon",
+        "networth": 60000000,
+        "height": 181.6,
+        "popularity": 2445788
+    },
+    {
+        "name": "jimmy kimmel",
+        "networth": 50000000,
+        "height": 181.0,
+        "popularity": 2464499
+    },
+    {
+        "name": "stephen colbert",
+        "networth": 75000000,
+        "height": 179.1,
+        "popularity": 2223325
+    },
+    {
+        "name": "james corden",
+        "networth": 70000000,
+        "height": 173.4,
+        "popularity": 3002061
+    },
+    {
+        "name": "seth meyers",
+        "networth": 26000000,
+        "height": 179.7,
+        "popularity": 1297321
+    },
+    {
+        "name": "seth macfarlane",
+        "networth": 300000000,
+        "height": 179.1,
+        "popularity": 3964567
+    },
+    {
+        "name": "seth rogen",
+        "networth": 80000000,
+        "height": 180.3,
+        "popularity": 4197913
+    },
+    {
+        "name": "james franco",
+        "networth": 30000000,
+        "height": 179.1,
+        "popularity": 6549562
+    },
+    {
+        "name": "jonah hill",
+        "networth": 60000000,
+        "height": 168.3,
+        "popularity": 4377621
+    },
+    {
+        "name": "dakota johnson",
+        "networth": 14000000,
+        "height": 170.2,
+        "popularity": 8659564
+    },
+    {
+        "name": "jamie dornan",
+        "networth": 14000000,
+        "height": 179.1,
+        "popularity": 4527050
+    },
+    {
+        "name": "jamie foxx",
+        "networth": 170000000,
+        "height": 175.3,
+        "popularity": 5241237
+    },
+    {
+        "name": "kevin hart",
+        "networth": 450000000,
+        "height": 158.8,
+        "popularity": 5426569
+    },
+    {
+        "name": "hugh jackman",
+        "networth": 180000000,
+        "height": 186.7,
+        "popularity": 4726602
+    },
+    {
+        "name": "grant gustin",
+        "networth": 5000000,
+        "height": 182.9,
+        "popularity": 1195391
+    },
+    {
+        "name": "stephen amell",
+        "networth": 7000000,
+        "height": 184.8,
+        "popularity": 1602359
+    },
+    {
+        "name": "tom ellis",
+        "networth": 6000000,
+        "height": 190.5,
+        "popularity": 3599989
+    }
+]

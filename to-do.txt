@@ -1,0 +1,4 @@
+- make it so networth shows short value instead of long number (ex. $246B in instead of $246000000000) or add commas to numbers (ex. $246,000,000,000 instead of $246000000000)
+- mess around with fade in animation and timing equation
+- add css for mobile
+- fix some pictures
