@@ -60,7 +60,7 @@ function createListing(name, height, networth, popularity, img_src, n) {
 
     //adding name
     var name_node = document.createElement("h1");
-    name_node.innerHTML = name;
+    name_node.innerHTML = formatName(name);
     listing_text.appendChild(name_node);
 
     //adding height
@@ -70,7 +70,7 @@ function createListing(name, height, networth, popularity, img_src, n) {
 
     //adding networth
     var networth_node = document.createElement("p");
-    networth_node.innerHTML = "Networth: $" + networth;
+    networth_node.innerHTML = "Networth: $" + formatMoney(networth);
     listing_text.appendChild(networth_node);
 
     //adding popularity
@@ -102,7 +102,7 @@ function update() {
         .then(targetData => targetData = sort(targetData))
         .then(targetData=> {
             for (var i = 0; i < targetData.length; i++) {
-                createListing(formatName(targetData[i].name), targetData[i].height, targetData[i].networth, targetData[i].popularity_rank, "images/" + targetData[i].name + ".jpg", i);
+                createListing(targetData[i].name, targetData[i].height, targetData[i].networth, targetData[i].popularity_rank, "images/" + targetData[i].name + ".jpg", i);
             }
         })
 }
@@ -178,3 +178,19 @@ function createPopularityRanks(data) {
  * This starts up everything when the page loads.
  */
 window.onload = update;
+
+/**
+ * This method formats money to a form that displays better. (Ex. 246000000000 -> 246B)
+ * @param {*} dollars 
+ * @returns 
+ */
+function formatMoney(dollars) {
+    endings = ["K", "M", "B"]
+    endingIndex = -1;
+    while(dollars>=1000) {
+        dollars/=1000;
+        endingIndex++;
+    }
+    temp = dollars + endings[endingIndex];
+    return temp
+}

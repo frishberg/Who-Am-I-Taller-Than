@@ -1,4 +1,4 @@
-- make it so networth shows short value instead of long number (ex. $246B in instead of $246000000000) or add commas to numbers (ex. $246,000,000,000 instead of $246000000000)
 - mess around with fade in animation and timing equation
-- add css for mobile
+- add css for mobile (maybe create custom drop down so mobile looks better)
 - fix some pictures
+- make it so that you don't need to click off of a box for it to update.  Setinterval checking?
