@@ -1,4 +1,4 @@
 - mess around with fade in animation and timing equation
-- add css for mobile (maybe create custom drop down so mobile looks better)
+- add more css for mobile (maybe create custom drop down so mobile looks better)
 - fix some pictures
 - make it so that you don't need to click off of a box for it to update.  Setinterval checking?

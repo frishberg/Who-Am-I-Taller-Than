@@ -70,7 +70,7 @@ function createListing(name, height, networth, popularity, img_src, n) {
 
     //adding networth
     var networth_node = document.createElement("p");
-    networth_node.innerHTML = "Networth: $" + formatMoney(networth);
+    networth_node.innerHTML = "Net Worth: $" + formatMoney(networth);
     listing_text.appendChild(networth_node);
 
     //adding popularity
