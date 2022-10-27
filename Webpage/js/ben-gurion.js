@@ -96,14 +96,15 @@ function createListing(name, height, networth, popularity, img_src, n) {
 function update() {
     clearDisplay()
     var data = fetch("data.json")
-        .then(response => response.json())
-        .then(data => data = createPopularityRanks(data))
-        .then(data => targetData = selectData(data))
-        .then(targetData => targetData = sort(targetData))
-        .then(targetData=> {
+        .then(response => response.json()) //parsing the json file
+        .then(data => data = createPopularityRanks(data)) //adding popularity ranks for each celebrity
+        .then(data => targetData = selectData(data)) //narrowing down the data to the celebrities that are shorter than the user
+        .then(targetData => targetData = sort(targetData)) //sorting the data by the user's choice in the select box
+        .then(targetData=> { //creating listings for each celebrity
             for (var i = 0; i < targetData.length; i++) {
                 createListing(targetData[i].name, targetData[i].height, targetData[i].networth, targetData[i].popularity_rank, "images/" + targetData[i].name + ".jpg", i);
             }
+            document.getElementById("profiles-loaded").innerHTML = i; //displaying the number of profiles loaded
         })
 }
 /**
