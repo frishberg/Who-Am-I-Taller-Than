@@ -7,5 +7,5 @@ A different module of the Back-end uses the icrawler library to fetch images for
 # HTML, JS, CSS (Front-end)
 The front end uses a culmination of the web suite to dynamically create a list of celebrities that are shorten or equal in height than the user's inputted height.  It uses a variety of custom made methods to filter the celebrities (to people shorter) and sort the celebrities by the user's desired paramters (by popularity, net worth, height or name).
 
-# What I learned
+# What I Learned
 Although this is a random and very niche project, I took it up to gain experience with both Back-end and Front-end programming, and working on a project that has direct interaction between the two.  I'm extremely happy with the entire execution of this project and the code I created to make it work.  It was a really intelectually demanding project but I'm glad that I was able to build something that I'm really proud of.
