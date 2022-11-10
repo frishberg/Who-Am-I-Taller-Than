@@ -1,4 +1,3 @@
-Who-Am-I-Taller-Than
 # Python (Back-end)
 The back end and data collection of this project is run using Python along with the selenium library.  It collects data from Wikipedia's page view API to check each celebrity's "popularity" or "relevance" by checking each celebrity's page views over a specific time period.  In addition, it scrapes height data from https://www.celebheights.com/, as they have the best readily available database of celebrity heights.  Finally, it collects net worth data from https://www.celebritynetworth.com, as they have the best readily available database of celebrity net worths.  It then creates an entry in a json file, to be handed off the front end of this project.
 
