@@ -42,12 +42,6 @@
         "popularity": 6266254
     },
     {
-        "name": "obama",
-        "networth": 70000000,
-        "height": 185.4,
-        "popularity": 14483382
-    },
-    {
         "name": "selena gomez",
         "networth": 95000000,
         "height": 164.5,
@@ -1012,12 +1006,6 @@
         "networth": 75000000,
         "height": 178.4,
         "popularity": 4115824
-    },
-    {
-        "name": "remi malek",
-        "networth": 20000000,
-        "height": 170.2,
-        "popularity": 7698287
     },
     {
         "name": "miles teller",
@@ -2310,12 +2298,6 @@
         "popularity": 4667142
     },
     {
-        "name": "ronaldo",
-        "networth": 500000000,
-        "height": 185.4,
-        "popularity": 32162912
-    },
-    {
         "name": "shah rukh khan",
         "networth": 600000000,
         "height": 171.5,
@@ -2694,12 +2676,6 @@
         "popularity": 1202741
     },
     {
-        "name": "elvis",
-        "networth": 20000000,
-        "height": 182.2,
-        "popularity": 21138940
-    },
-    {
         "name": "michael erwin",
         "networth": 12000000,
         "height": 179.7,
@@ -2764,12 +2740,6 @@
         "networth": 3000000,
         "height": 176.5,
         "popularity": 441604
-    },
-    {
-        "name": "andrew garfield",
-        "networth": 16000000,
-        "height": 179.1,
-        "popularity": 10974705
     },
     {
         "name": "troy garity",
@@ -2896,12 +2866,6 @@
         "networth": 1000000,
         "height": 177.8,
         "popularity": 1491177
-    },
-    {
-        "name": "aaron johnson",
-        "networth": 16000000,
-        "height": 179.1,
-        "popularity": 4690462
     },
     {
         "name": "joe jonas",
@@ -4288,12 +4252,6 @@
         "networth": 1000000,
         "height": 175.3,
         "popularity": 3680799
-    },
-    {
-        "name": "mike bloomberg",
-        "networth": 70000000000,
-        "height": 165.7,
-        "popularity": 1622964
     },
     {
         "name": "mike tyson",
