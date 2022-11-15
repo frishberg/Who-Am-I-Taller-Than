@@ -4230,12 +4230,6 @@
         "popularity": 1622964
     },
     {
-        "name": "donald trump",
-        "networth": 2000000000,
-        "height": 184.2,
-        "popularity": 323361604
-    },
-    {
         "name": "joe biden",
         "networth": 9000000,
         "height": 181.9,
@@ -4318,5 +4312,101 @@
         "networth": 40000000,
         "height": 171.5,
         "popularity": 2469543
+    },
+    {
+        "name": "jack ma",
+        "networth": 34000000000,
+        "height": 166.4,
+        "popularity": 3070908
+    },
+    {
+        "name": "steve ballmer",
+        "networth": 90000000000,
+        "height": 177.2,
+        "popularity": 1450825
+    },
+    {
+        "name": "larry summers",
+        "networth": 40000000,
+        "height": 179.1,
+        "popularity": 695808
+    },
+    {
+        "name": "jim walton",
+        "networth": 62000000000,
+        "height": 212.7,
+        "popularity": 524574
+    },
+    {
+        "name": "rob walton",
+        "networth": 61000000000,
+        "height": 212.7,
+        "popularity": 591356
+    },
+    {
+        "name": "david koch",
+        "networth": 58000000000,
+        "height": 181.6,
+        "popularity": 666545
+    },
+    {
+        "name": "alice walton",
+        "networth": 60000000000,
+        "height": 157.5,
+        "popularity": 765829
+    },
+    {
+        "name": "phil knight",
+        "networth": 40000000000,
+        "height": 182.2,
+        "popularity": 1193835
+    },
+    {
+        "name": "john mars",
+        "networth": 42000000000,
+        "height": 162.6,
+        "popularity": 118059
+    },
+    {
+        "name": "ken griffin",
+        "networth": 28000000000,
+        "height": 184.8,
+        "popularity": 1212842
+    },
+    {
+        "name": "john roberts",
+        "networth": 17000000,
+        "height": 172.7,
+        "popularity": 2050933
+    },
+    {
+        "name": "clarence thomas",
+        "networth": 1000000,
+        "height": 172.7,
+        "popularity": 4587962
+    },
+    {
+        "name": "kevin o'leary",
+        "networth": 400000000,
+        "height": 186.1,
+        "popularity": 1831188
+    },
+    {
+        "name": "mark cuban",
+        "networth": 5000000000,
+        "height": 188.6,
+        "popularity": 4112555
+    },
+    {
+        "name": "daymond john",
+        "networth": 350000000,
+        "height": 176.5,
+        "popularity": 883000
+    },
+    {
+        "name": "robert herjavec",
+        "networth": 200000000,
+        "height": 168.9,
+        "popularity": 1025237
     }
 ]

@@ -3,7 +3,46 @@ from time import sleep
 import selenium
 
 famous_people = [
-    
+    "Mark Zuckerberg",
+    "Jeff Bezos",
+    "Bill Gates",
+    "Elon Musk",
+    "Jack Ma",
+    "Steve Ballmer",
+    "Michael Bloomberg",
+    "Larry Summers",
+    "Michael Dell",
+    "Jim Walton",
+    "Rob Walton",
+    "Charles Koch",
+    "David Koch",
+    "Alice Walton",
+    "MacKenzie Scott",
+    "Phil Knight",
+    "Jim Simons",
+    "Jack Dorsey",
+    "Jacqueline Mars",
+    "Jim Breyer",
+    "John Mars",
+    "Ken Griffin",
+    "Abigail Johnson",
+    "John Roberts",
+    "Clarence Thomas",
+    "Samuel Alito",
+    "Stephen Breyer",
+    "Sonia Sotomayor",
+    "Elena Kagan",
+    "Neil Gorsuch",
+    "Brett Kavanaugh",
+    "Amy Coney Barrett",
+    "Ketanji Brown Jackson",
+    "Kevin O'Leary",
+    "Barbara Corcoran",
+    "Mark Cuban",
+    "Daymond John",
+    "Robert Herjavec",
+    "Lori Greiner",
+
 ]
 
 for name in famous_people :
