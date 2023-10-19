@@ -2,7 +2,7 @@ from data_collection import *
 from time import sleep
 import selenium
 
-famous_people = [
+famous_people = [  #list to be added to data, scraped from wikipedia
     "Mark Zuckerberg",
     "Jeff Bezos",
     "Bill Gates",
@@ -42,7 +42,6 @@ famous_people = [
     "Daymond John",
     "Robert Herjavec",
     "Lori Greiner",
-
 ]
 
 for name in famous_people :
